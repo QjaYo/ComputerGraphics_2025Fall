@@ -13,6 +13,7 @@ Link: https://github.com/QjaYo/ComputerGraphics-Assignment1.git
 
 <img src="./image/RobotArm.png" width="400">
 
+Related Skills:
 - Rotation/Translation Matrix
 - Forward Kinematics / Inverse Kinematics
 - Iterative Method (Solving Complicated Non-Linear Equation)
