@@ -1,9 +1,9 @@
 # ComputerGraphics_2025Fall
 
 ## Assignment1: Waving Plane
-Naughty Waving Plane
+Fancy Waving Plane
 
-<img src="./image/WavingPlane.png" width="400">
+<video src="https://github.com/user-attachments/assets/27964bfe-ee31-4d9a-aad0-c9f66cebce47" width="400" controls><\video>
 
 Related Skills: 
 - Vertex/Fragment Shader
@@ -17,7 +17,7 @@ Link: https://github.com/QjaYo/ComputerGraphics-Assignment1.git
 ## Assignment2: Robot Arm
 Robot Arm that Tracks a Target
 
-<img src="./image/RobotArm.png" width="400">
+<video src="https://github.com/user-attachments/assets/5dfa4bca-473f-45f6-ab72-1826351eac98" width="400" controls><\video>
 
 Related Skills:
 - Rotation/Translation Matrix
