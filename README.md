@@ -9,7 +9,7 @@ Related Skills:
 - Vertex/Fragment Shader
 - Sine, Cosine Function & Damping
 
-Link: https://github.com/QjaYo/ComputerGraphics-Assignment1.git
+Link: https://github.com/QjaYo/WavingPlane.git
 
 
 
@@ -27,4 +27,4 @@ Related Skills:
   - Gradient Descent
     - Jacobian Matrix
 
-Link: https://github.com/QjaYo/ComputerGraphics-Assignment2.git
+Link: https://github.com/QjaYo/RobotArm.git
