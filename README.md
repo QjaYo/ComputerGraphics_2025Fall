@@ -36,5 +36,3 @@ Related Skills:
 - Pathfinding (A* Algorithm)
 - Collision-aware Navigation
 - Camera System
-
-Link: [https://github.com/QjaYo/Maze-Navigator.git]
